@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 this second2 branch
-=======
-this is second file and second branch
->>>>>>> second
+this is second file and second branch fix2
