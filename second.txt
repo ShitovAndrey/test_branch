@@ -14,3 +14,5 @@ function fix2()
 }
 
 kalaka-malaka1
+
+qwerty2
