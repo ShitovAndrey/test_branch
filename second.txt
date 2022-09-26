@@ -6,6 +6,7 @@ function fix1 ()
   return 1;
 }
 
+asdfg1
 
 function fix2()
 {
